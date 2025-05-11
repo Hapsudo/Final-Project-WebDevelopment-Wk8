@@ -84,16 +84,18 @@ Final-Project-WebDevelopment-Wk8/
 ├── script.js
 ├── images/
 │   ├── hero.jpg
-│   ├── about.jpg
+│   ├── intro.jpg
+│   ├── about.webp
+│   ├── javascript.jpg
+│   ├── html.jpg
 │   ├── expectation.jpg
-│   ├── mission.jpg
+│   ├── mission.webp
 │   ├── books.jpg
-│   ├── behind-the-blog.jpg
-│   ├── lessons-learned.jpg
+│   ├── behind.jpg
 │   ├── timeline.jpg
-│   ├── fun-facts.jpg
-│   ├── social-media.jpg
-│   └── call-to-action.jpg
+│   ├── fun-fact.jpg
+│   ├── socials.webp
+│   └── cta.jpg
 └── README.md
 ```
 
