@@ -109,7 +109,7 @@ Final-Project-WebDevelopment-Wk8/
 
 ### About Page
 
-![About Page](expectation.jpg)
+![About Page](intro.webp)
 
 ### Blog Page
 
