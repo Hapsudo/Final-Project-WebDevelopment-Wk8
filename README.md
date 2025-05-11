@@ -109,7 +109,7 @@ Final-Project-WebDevelopment-Wk8/
 
 ### About Page
 
-![About Page](intro.webp)
+![About Page](intro.jpg)
 
 ### Blog Page
 
