@@ -84,10 +84,10 @@ Final-Project-WebDevelopment-Wk8/
 ├── script.js
 ├── images/
 │   ├── hero.jpg
-│   ├── about-me.jpg
-│   ├── expectations.jpg
+│   ├── about.jpg
+│   ├── expectation.jpg
 │   ├── mission.jpg
-│   ├── favorite-books.jpg
+│   ├── books.jpg
 │   ├── behind-the-blog.jpg
 │   ├── lessons-learned.jpg
 │   ├── timeline.jpg
@@ -107,7 +107,7 @@ Final-Project-WebDevelopment-Wk8/
 
 ### About Page
 
-![About Page](about-me.jpg)
+![About Page](expectation.jpg)
 
 ### Blog Page
 
