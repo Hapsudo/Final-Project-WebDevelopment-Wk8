@@ -103,11 +103,11 @@ Final-Project-WebDevelopment-Wk8/
 
 ### Home Page
 
-![Home Page](images/hero.jpg)
+![Home Page](hero.jpg)
 
 ### About Page
 
-![About Page](about.jpg)
+![About Page](about-me.jpg)
 
 ### Blog Page
 
