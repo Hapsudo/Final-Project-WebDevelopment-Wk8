@@ -107,13 +107,11 @@ Final-Project-WebDevelopment-Wk8/
 
 ### About Page
 
-![About Page](images/about-me.jpg)
+![About Page](about.jpg)
 
 ### Blog Page
 
-![Blog Page](images/blog.jpg)
-
-> Replace the image paths with actual screenshots from your project.
+![Blog Page](javascript.jpg)
 
 ---
 
