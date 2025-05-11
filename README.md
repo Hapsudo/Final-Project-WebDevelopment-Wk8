@@ -34,7 +34,7 @@ Welcome to **My Creative Blog**, a modern and responsive blog website designed t
 
 ## 🚀 Live Demo
 
-Experience the live version of the project here: [My Creative Blog Live Demo](https://hapsudo.github.io/Final-Project-WebDevelopment-Wk8/)
+Experience the live version of the project here: [My Creative Blog Live Demo](https://hapsudo.github.io/Final-Project-WebDevelopment-Wk8/) 
 
 ---
 
