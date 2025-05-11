@@ -138,7 +138,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 📬 Contact
 
 **Catherine (Hapsudo)**
-📧 Email: catherine.abuga8@gmail.com
+📧 Email: catherine.abugah8@gmail.com
 🔗 GitHub: (https://github.com/Hapsudo)
 
 ---
