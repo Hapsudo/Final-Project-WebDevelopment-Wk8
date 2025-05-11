@@ -1,9 +1,3 @@
-# My Creative Blog
-
-Welcome to **My Creative Blog**, a modern and responsive blog website designed to share insights, stories, and ideas. This project demonstrates the use of HTML, CSS, and JavaScript to create a visually appealing and interactive blog.
-
-![Hero Section](hero.jpg)
-
 ---
 # 🌐 My Creative Blog
 
